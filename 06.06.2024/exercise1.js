@@ -9,5 +9,3 @@ document.addEventListener("DOMContentLoaded", function() {
         myDiv.textContent = "Hello world";
     });
 });
-let mydiv = document.getElementById('mydiv');
-mydiv.addEventListener("mouseover", )
